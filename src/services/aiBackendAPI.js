@@ -1,4 +1,4 @@
-const AI_BACKEND_URL = "https://ai-python-evj4.onrender.com/" // Ensure this matches your FastAPI server address
+const AI_BACKEND_URL = "https://ai-python-evj4.onrender.com" // Ensure this matches your FastAPI server address
 
 class AIBackendAPI {
   constructor() {
